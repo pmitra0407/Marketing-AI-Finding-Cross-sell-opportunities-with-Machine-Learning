@@ -1,7 +1,7 @@
 # Marketing-AI-Finding-Cross-sell-opportunities-with-Machine-Learning
 
 
-Read the details report from here:
+Get all the analytical reports from here:
 
 https://10minsread.com/artificial-intelligence/marketing-ai.html
 
@@ -12,4 +12,5 @@ Who is likely to buy their insurance product, finding the right customer?
 What type of PPI insurance product should be targeted to whom, finding the right product?
 Now the bank has provided the customer data with the following features like credit score, outstanding loan amount, residential status, demographic information like age group, income group, etc, and finally if the customer is already holding any insurance and if yes then what type of insurance product, etc.
 
-
+Read the Blog from here:
+https://10minsread.com/artificial-intelligence/marketing-ai.html
